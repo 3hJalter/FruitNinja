@@ -1,0 +1,4 @@
+#Sat Oct 01 09:11:01 ICT 2022
+base.0=D\:\\Code\\Unity\\Project\\FruitNinja\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
